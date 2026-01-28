@@ -1,0 +1,46 @@
+{
+  "name": "APPE-Source",
+  "subtitle": "A source containing useful apps.",
+  "description": "This source collects apps from other developers. I am not the author of any apps in this source.",
+  "iconURL": "https://s2.loli.net/2023/09/17/vjIV1bxdX7lqeOk.webp",
+  "website": "https://blog.appe.moe",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "headerURL": "https://s2.loli.net/2025/01/29/RYsFEc7fAn9rikC.jpg",
+  "apps": [
+    {
+      "name": "PiliPlus",
+      "bundleIdentifier": "com.dom.piliplus",
+      "marketplaceID": "",
+      "developerName": "dom",
+      "subtitle": "BiliBili第三方客户端",
+      "localizedDescription": "使用Flutter开发的BiliBili第三方客户端",
+      "iconURL": "https://i.imgur.com/q7pfH9S.png",
+      "tintColor": "#5cb47c",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/1.1.5.7/PiliPlus_ios_1.1.5+4584.ipa",
+          "size": 25100000,
+          "version": "1.1.5",
+          "buildVersion": "bce73d9",
+          "date": "2026-01-28T09:27:00+08:00",
+          "localizedDescription": "优化滑动\n其他",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "App需要您的同意,才能访问媒体资料库",
+          "NSCameraUsageDescription": "App需要您的同意,才能访问相册",
+          "NSPhotoLibraryUsageDescription": "请允许APP保存图片到相册"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
