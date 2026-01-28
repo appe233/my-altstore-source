@@ -18,16 +18,25 @@
       "localizedDescription": "使用Flutter开发的BiliBili第三方客户端",
       "iconURL": "https://i.imgur.com/q7pfH9S.png",
       "tintColor": "#5cb47c",
-      "category": "entertainment",
+      "category": "photo-video",
       "screenshots": [],
       "versions": [
         {
+          "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/1.1.5.6/PiliPlus_ios_1.1.5+4577.ipa",
+          "size": 25100000,
+          "version": "1.1.5.6",
+          "buildVersion": "af40e48",
+          "date": "2026-01-26T04:47:00+08:00",
+          "localizedDescription": "安卓端音频输出回退默认 opensles\n安卓端支持选择音频输出 #1811 by @My-Responsitories\n其他",
+          "minOSVersion": null
+        },
+        {
+          "version": "1.1.5.7",
+          "date": "2026-01-28T01:27:00+08:00",
+          "localizedDescription": "优化滑动\n其他",
           "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/1.1.5.7/PiliPlus_ios_1.1.5+4584.ipa",
           "size": 25100000,
-          "version": "1.1.5",
           "buildVersion": "bce73d9",
-          "date": "2026-01-28T09:27:00+08:00",
-          "localizedDescription": "优化滑动\n其他",
           "minOSVersion": null
         }
       ],
